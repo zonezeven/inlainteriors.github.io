@@ -13,7 +13,7 @@
 	
 			$('iframe').hide();
 		  $('body').css('overflow-y','hidden');
-		  $('<div class="introtzikas_bg" style="visibility:visible"><div id="intrologo">KUBOTA ARCHITECT ATELIER</div><div class="introtzikas" style="visibility:visible"></div></div>').appendTo('body');
+		  $('<div class="introtzikas_bg" style="visibility:visible"><div id="intrologo">INLA CORPORATE INTERIORS</div><div class="introtzikas" style="visibility:visible"></div></div>').appendTo('body');
   
 			$('.introtzikas_bg').css('background-color',options.bg);
 			$('.introtzikas_bg').css('position','fixed');
